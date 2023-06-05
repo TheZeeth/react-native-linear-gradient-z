@@ -1,6 +1,6 @@
 {
   "name": "@the-zeeth/react-native-linear-gradient-z",
-  "version": "2.6.4",
+  "version": "2.6.6",
   "description": "A <LinearGradient> element for React Native",
   "main": "index.js",
   "files": [
