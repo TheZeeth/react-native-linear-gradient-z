@@ -1,18 +1,18 @@
 {
   "name": "@the-zeeth/react-native-linear-gradient-z",
-  "version": "2.6.2",
+  "version": "2.6.4",
   "description": "A <LinearGradient> element for React Native",
   "main": "index.js",
   "files": [
     "android",
     "ios",
-    "web",
     "windows",
     "common.js",
-    "index.android.js",
     "index.d.ts",
-    "index.ios.js",
-    "index.windows.js",
+    "LinearGradient.android.js",
+    "LinearGradient.ios.js",
+    "LinearGradient.windows.js",
+    "LinearGradient.web.js",
     "BVLinearGradient.podspec"
   ],
   "author": "TheZeeth",

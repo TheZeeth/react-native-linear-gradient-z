@@ -1,3 +1,3 @@
-import LinearGradient from "."
+import LinearGradient from "./LinearGradient"
 
 export default LinearGradient
